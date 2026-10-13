@@ -53,8 +53,3 @@ Project Files
 Conclusion
 
 This project provides insights into employee attrition patterns and demonstrates how Python and machine learning can support HR decision-making. The model achieved 75.17% test accuracy. Its performance should also be evaluated using precision, recall, and F1-score.
-
-Author
-
-Uyyala Siddardha
-B.Com (Computer Applications) — Final Year
